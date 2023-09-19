@@ -1,0 +1,10 @@
+.proplmeClass{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    font-size: 30px;
+}
+img{
+    width: 500px;
+    padding: auto;
+    
+}
